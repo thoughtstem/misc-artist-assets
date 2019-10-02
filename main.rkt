@@ -9,4 +9,4 @@
           "world-objects.rkt")
 
  (provide (all-from-out "bgs.rkt")
-          (all-from-out "world-objects.rkt"))
+          (all-from-out "world-objects.rkt")))
