@@ -6,3 +6,6 @@
                     (for-all-assets (para "Artist Credit: Javier \"reivaxcorp\". See: "
                                           (link "https://opengameart.org/users/reivaxcorp" "Here"))))
 
+(define-assets-from "assets/bevouliin"
+                    (for-all-assets (para "Artist Credit: Bevouliin. See: "
+                                          (link "http://bevouliin.com" "Here"))))
