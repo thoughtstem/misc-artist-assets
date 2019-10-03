@@ -9,3 +9,7 @@
 (define-assets-from "assets/bevouliin"
                     (for-all-assets (para "Artist Credit: Bevouliin. See: "
                                           (link "http://bevouliin.com" "Here"))))
+
+(define-assets-from "assets/segel"
+                    (for-all-assets (para "Artist Credit: Segel. See: "
+                                          (link "https://opengameart.org/users/segel" "Here"))))
